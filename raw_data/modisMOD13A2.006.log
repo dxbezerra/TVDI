@@ -473,3 +473,35 @@
 2019-05-24 17:41:43,686 - DEBUG - update_title_pos
 2019-05-24 17:41:44,089 - DEBUG - update_title_pos
 2019-05-24 17:41:44,173 - DEBUG - update_title_pos
+2019-05-24 17:51:33,847 - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x1a20fad390>
+2019-05-24 17:51:33,854 - DEBUG - Using auto colorbar locator on colorbar
+2019-05-24 17:51:33,854 - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x1a20fad390>
+2019-05-24 17:51:33,854 - DEBUG - Setting pcolormesh
+2019-05-24 17:51:33,859 - DEBUG - update_title_pos
+2019-05-24 17:51:33,862 - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.0 to DejaVu Sans ('/Users/diego/miniconda2/envs/py37/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-24 17:51:33,894 - DEBUG - update_title_pos
+2019-05-24 17:51:33,921 - DEBUG - update_title_pos
+2019-05-24 17:51:34,343 - DEBUG - update_title_pos
+2019-05-24 17:51:34,623 - DEBUG - update_title_pos
+2019-05-24 17:51:34,996 - DEBUG - update_title_pos
+2019-05-24 17:51:35,011 - DEBUG - update_title_pos
+2019-05-24 17:51:35,367 - DEBUG - update_title_pos
+2019-05-24 17:51:35,418 - DEBUG - update_title_pos
+2019-05-24 17:51:35,440 - DEBUG - update_title_pos
+2019-05-24 17:51:35,481 - DEBUG - update_title_pos
+2019-05-24 17:51:35,509 - DEBUG - update_title_pos
+2019-05-24 17:51:35,523 - DEBUG - update_title_pos
+2019-05-24 17:51:35,938 - DEBUG - update_title_pos
+2019-05-24 17:51:36,028 - WARNING - /Users/diego/miniconda2/envs/py37/lib/python3.7/site-packages/numpy/lib/histograms.py:754: RuntimeWarning: invalid value encountered in greater_equal
+  keep = (tmp_a >= first_edge)
+
+2019-05-24 17:51:36,028 - WARNING - /Users/diego/miniconda2/envs/py37/lib/python3.7/site-packages/numpy/lib/histograms.py:755: RuntimeWarning: invalid value encountered in less_equal
+  keep &= (tmp_a <= last_edge)
+
+2019-05-24 17:51:36,217 - DEBUG - update_title_pos
+2019-05-24 17:51:36,356 - DEBUG - update_title_pos
+2019-05-24 17:51:36,501 - DEBUG - update_title_pos
+2019-05-24 17:51:36,645 - DEBUG - update_title_pos
+2019-05-24 17:51:36,776 - DEBUG - update_title_pos
+2019-05-24 17:51:36,960 - DEBUG - update_title_pos
+2019-05-24 17:51:37,060 - DEBUG - update_title_pos
