@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GranuleMetaDataFile SYSTEM "http://ecsinfo.gsfc.nasa.gov/ECSInfo/ecsmetadata/dtds/DPL/ECS/ScienceGranuleMetadata.dtd">
+<GranuleMetaDataFile>
+    <DTDVersion>1.0</DTDVersion>
+    <DataCenterId>EDC</DataCenterId>
+    <GranuleURMetaData>
+        <GranuleUR>SC:MOD11A2.006:2310912234</GranuleUR>
+        <DbID>2310912234</DbID>
+        <InsertTime>2018-10-09 12:00:44.790</InsertTime>
+        <LastUpdate>2018-10-09 12:00:44.790</LastUpdate>
+        <CollectionMetaData>
+            <ShortName>MOD11A2</ShortName>
+            <VersionID>6</VersionID>
+        </CollectionMetaData>
+        <DataFiles>
+            <DataFileContainer>
+                <DistributedFileName>MOD11A2.A2018265.h14v09.006.2018282165559.hdf</DistributedFileName>
+                <FileSize>3339318</FileSize>
+                <ChecksumType>CKSUM</ChecksumType>
+                <Checksum>532155740</Checksum>
+                <ChecksumOrigin>DPLIngst</ChecksumOrigin>
+            </DataFileContainer>
+        </DataFiles>
+        <ECSDataGranule>
+            <SizeMBECSDataGranule>3.18462</SizeMBECSDataGranule>
+            <ReprocessingPlanned>further update is anticipated</ReprocessingPlanned>
+            <ReprocessingActual>reprocessed</ReprocessingActual>
+            <LocalGranuleID>MOD11A2.A2018265.h14v09.006.2018282165559.hdf</LocalGranuleID>
+            <DayNightFlag>Both</DayNightFlag>
+            <ProductionDateTime>2018-10-09 16:55:59.000</ProductionDateTime>
+            <LocalVersionID>6.3.0</LocalVersionID>
+        </ECSDataGranule>
+        <PGEVersionClass>
+            <PGEVersion>6.3.4</PGEVersion>
+        </PGEVersionClass>
+        <RangeDateTime>
+            <RangeEndingTime>23:59:59.000000</RangeEndingTime>
+            <RangeEndingDate>2018-09-29</RangeEndingDate>
+            <RangeBeginningTime>00:00:00.000000</RangeBeginningTime>
+            <RangeBeginningDate>2018-09-22</RangeBeginningDate>
+        </RangeDateTime>
+        <SpatialDomainContainer>
+            <HorizontalSpatialDomainContainer>
+                <GPolygon>
+                    <Boundary>
+                        <Point>
+                            <PointLongitude>-40.0041602606794</PointLongitude>
+                            <PointLatitude>-0.00416666666666217</PointLatitude>
+                        </Point>
+                        <Point>
+                            <PointLongitude>-30.0041766710903</PointLongitude>
+                            <PointLatitude>-0.00416666666666217</PointLatitude>
+                        </Point>
+                        <Point>
+                            <PointLongitude>-30.4670467059993</PointLongitude>
+                            <PointLatitude>-9.99583333333333</PointLatitude>
+                        </Point>
+                        <Point>
+                            <PointLongitude>-40.6212955971789</PointLongitude>
+                            <PointLatitude>-9.99583333333333</PointLatitude>
+                        </Point>
+                    </Boundary>
+                </GPolygon>
+            </HorizontalSpatialDomainContainer>
+        </SpatialDomainContainer>
+        <MeasuredParameter>
+            <MeasuredParameterContainer>
+                <ParameterName>MOD 8-DAY 1KM L3 LST</ParameterName>
+                <QAStats>
+                    <QAPercentMissingData>0</QAPercentMissingData>
+                    <QAPercentOutofBoundsData>0</QAPercentOutofBoundsData>
+                    <QAPercentInterpolatedData>0</QAPercentInterpolatedData>
+                    <QAPercentCloudCover>0</QAPercentCloudCover>
+                </QAStats>
+                <QAFlags>
+                    <AutomaticQualityFlag>Passed</AutomaticQualityFlag>
+                    <AutomaticQualityFlagExplanation>No automatic quality assessment is performed in the PGE</AutomaticQualityFlagExplanation>
+                    <OperationalQualityFlag>Passed</OperationalQualityFlag>
+                    <OperationalQualityFlagExplanation>Passed</OperationalQualityFlagExplanation>
+                    <ScienceQualityFlag>Not Investigated</ScienceQualityFlag>
+                    <ScienceQualityFlagExplanation>See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</ScienceQualityFlagExplanation>
+                </QAFlags>
+            </MeasuredParameterContainer>
+        </MeasuredParameter>
+        <Platform>
+            <PlatformShortName>Terra</PlatformShortName>
+            <Instrument>
+                <InstrumentShortName>MODIS</InstrumentShortName>
+                <Sensor>
+                    <SensorShortName>MODIS</SensorShortName>
+                </Sensor>
+            </Instrument>
+        </Platform>
+        <PSAs>
+            <PSA>
+                <PSAName>QAPERCENTGOODQUALITY</PSAName>
+                <PSAValue>22</PSAValue>
+            </PSA>
+            <PSA>
+                <PSAName>QAPERCENTOTHERQUALITY</PSAName>
+                <PSAValue>07</PSAValue>
+            </PSA>
+            <PSA>
+                <PSAName>QAPERCENTNOTPRODUCEDCLOUD</PSAName>
+                <PSAValue>00</PSAValue>
+            </PSA>
+            <PSA>
+                <PSAName>QAPERCENTNOTPRODUCEDOTHER</PSAName>
+                <PSAValue>71</PSAValue>
+            </PSA>
+            <PSA>
+                <PSAName>CLOUD_CONTAMINATED_LST_SCREENED</PSAName>
+                <PSAValue>YES</PSAValue>
+            </PSA>
+            <PSA>
+                <PSAName>HORIZONTALTILENUMBER</PSAName>
+                <PSAValue>14</PSAValue>
+            </PSA>
+            <PSA>
+                <PSAName>VERTICALTILENUMBER</PSAName>
+                <PSAValue>09</PSAValue>
+            </PSA>
+            <PSA>
+                <PSAName>TileID</PSAName>
+                <PSAValue>51014009</PSAValue>
+            </PSA>
+            <PSA>
+                <PSAName>identifier_product_doi</PSAName>
+                <PSAValue>10.5067/MODIS/MOD11A2.006</PSAValue>
+            </PSA>
+            <PSA>
+                <PSAName>identifier_product_doi_authority</PSAName>
+                <PSAValue>http://dx.doi.org</PSAValue>
+            </PSA>
+        </PSAs>
+        <InputGranule>
+            <InputPointer>MOD11A1.A2018265.h14v09.006.2018266090041.hdf</InputPointer>
+            <InputPointer>MOD11A1.A2018266.h14v09.006.2018267090213.hdf</InputPointer>
+            <InputPointer>MOD11A1.A2018267.h14v09.006.2018268090049.hdf</InputPointer>
+            <InputPointer>MOD11A1.A2018268.h14v09.006.2018269101643.hdf</InputPointer>
+            <InputPointer>MOD11A1.A2018269.h14v09.006.2018270091953.hdf</InputPointer>
+            <InputPointer>MOD11A1.A2018270.h14v09.006.2018278150424.hdf</InputPointer>
+            <InputPointer>MOD11A1.A2018271.h14v09.006.2018278150924.hdf</InputPointer>
+            <InputPointer>MOD11A1.A2018272.h14v09.006.2018278161930.hdf</InputPointer>
+        </InputGranule>
+        <BrowseProduct>
+            <BrowseGranuleId>UR:10:DsShESDTUR:UR:15:DsShSciServerUR:13:[EDC:DSSDSRV]:24:BR:Browse.001:2310912268</BrowseGranuleId>
+        </BrowseProduct>
+    </GranuleURMetaData>
+</GranuleMetaDataFile>
+
+

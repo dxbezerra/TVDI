@@ -1,0 +1,24 @@
+<VRTDataset rasterXSize="2561" rasterYSize="1233">
+  <SRS>GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform> -5.0771330594291420e+01,  8.1115494940679420e-03,  0.0000000000000000e+00,  0.0000000000000000e+00,  0.0000000000000000e+00, -8.1115494940679420e-03</GeoTransform>
+  <VRTRasterBand dataType="UInt16" band="1">
+    <NoDataValue>0</NoDataValue>
+    <ColorInterp>Gray</ColorInterp>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">MOD11A2.A2018265.h13v09.006.2018282164825_LST_Day_1km.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1333" RasterYSize="1238" DataType="UInt16" BlockXSize="1333" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="1333" ySize="1238" />
+      <DstRect xOff="0" yOff="0" xSize="1327.86707569967" ySize="1233.23288800915" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">MOD11A2.A2018265.h14v09.006.2018282165559_LST_Day_1km.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1304" RasterYSize="1228" DataType="UInt16" BlockXSize="1304" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="1304" ySize="1228" />
+      <DstRect xOff="1251.82816504884" yOff="0" xSize="1309.02125527954" ySize="1232.72860543196" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>

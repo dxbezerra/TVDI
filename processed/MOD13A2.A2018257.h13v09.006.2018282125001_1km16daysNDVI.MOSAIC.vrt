@@ -1,0 +1,24 @@
+<VRTDataset rasterXSize="2561" rasterYSize="1233">
+  <SRS>GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform> -5.0771330589584935e+01,  8.1115494933782471e-03,  0.0000000000000000e+00,  0.0000000000000000e+00,  0.0000000000000000e+00, -8.1115494933782471e-03</GeoTransform>
+  <VRTRasterBand dataType="Int16" band="1">
+    <NoDataValue>-3000</NoDataValue>
+    <ColorInterp>Gray</ColorInterp>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">MOD13A2.A2018257.h13v09.006.2018282125001_1 km 16 days NDVI.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1333" RasterYSize="1238" DataType="Int16" BlockXSize="1333" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="1333" ySize="1238" />
+      <DstRect xOff="0" yOff="0" xSize="1327.8670757" ySize="1233.23288800945" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">MOD13A2.A2018257.h14v09.006.2018282125732_1 km 16 days NDVI.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1304" RasterYSize="1228" DataType="Int16" BlockXSize="1304" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="1304" ySize="1228" />
+      <DstRect xOff="1251.82816503811" yOff="0" xSize="1309.02125527922" ySize="1232.72860543166" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>
