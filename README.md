@@ -9,7 +9,7 @@ Instituto Nacional de Pesquisas Espaciais (INPE)
 ![alg](https://docs.google.com/uc?export=download&id=1x-u197nO0fc5QyZcH0Fr2W9hmWYM7wji)
 
 
-As etapas para a obtenção do TVDI consistem de:
+As etapas para a obtenção do TVDI consistem em:
 1.   Download das Imagens
 2.   Extração das bandas de interesse das imagens
 3.   Mosaicagem
