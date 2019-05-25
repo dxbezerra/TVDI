@@ -1,4 +1,4 @@
-# **Cálculo do TVDI para o estado do Ceará — uma estimativa de seca em Python**
+# **Cálculo do TVDI para o estado do Ceará — uma estimativa de localidades secas a partir de linguagem Python**
 
 Autores: Diego Xavier, Gustavo Nagel, Raíssa Teixeira, Stella Coelho. 
 
