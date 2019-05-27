@@ -1,6 +1,6 @@
 # **Cálculo do TVDI para o estado do Ceará — uma estimativa de localidades secas a partir de linguagem Python**
 
-Autores: Diego Xavier Bezerra, Gustavo Willy Nagel, Raíssa Caroline dos Santos Teixeira, Stella Correia Cesar Coelho.
+*Autores: Diego Xavier Bezerra, Gustavo Willy Nagel, Raíssa Caroline dos Santos Teixeira, Stella Correia Cesar Coelho*
 
 Disciplina de Introdução à Programação (SER-347) - Turma de 2019
 
