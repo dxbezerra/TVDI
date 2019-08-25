@@ -2,7 +2,6 @@
 
 *Autores: Diego Xavier Bezerra, Gustavo Willy Nagel, Raíssa Caroline dos Santos Teixeira, Stella Correia Cesar Coelho*
 
-Disciplina de Introdução à Programação (SER-347) - Turma de 2019
 
 Instituto Nacional de Pesquisas Espaciais (INPE) - São José dos Campos/SP
 
